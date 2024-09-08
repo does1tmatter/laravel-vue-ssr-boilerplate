@@ -1,0 +1,7 @@
+{
+  "resources/js/App.vue": [],
+  "resources/js/pages/Home.vue": [],
+  "resources/js/pages/Test.vue": [],
+  "resources/js/ssr.js": [],
+  "vendor/adminui/inertia-routes/dist/inertia-routes.js": []
+}

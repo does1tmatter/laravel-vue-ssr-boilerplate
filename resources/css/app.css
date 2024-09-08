@@ -1,0 +1,17 @@
+@import './tailwind.css';
+
+html, body {
+    @apply scroll-smooth bg-gray-950;
+}
+
+html, body, #app {
+    @apply h-full min-h-full;
+}
+
+body {
+    @apply text-white flex;
+}
+
+#app {
+    @apply grow;
+}
